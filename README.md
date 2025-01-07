@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HarithaNetha8
 - 👀 I’m interested in Digital Marketing.
-- 🌱 I’m currently learning Technlogies
-- 💞️ I’m looking to collaborate on ....
-- 📫 How to reach by main harithamacharla**@gmail.com
+- 🌱 I’m currently learning Full stack development.
+- 💞️ I’m looking to collaborate on.....
+- 📫 How to reach by mail: harithamacharla26@gmail.com
 - ⚡ practicing small projects and deploying into github..........
 
 <!---
