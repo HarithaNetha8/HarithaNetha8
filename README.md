@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Full stack development.
 - 💞️ I’m looking to collaborate on.....
 - 📫 How to reach by mail: harithamacharla26@gmail.com
+- ⚡currently working at jabz studio as a webdeveloper intern
 - ⚡ practicing small projects and deploying into github..........
 
 <!---
