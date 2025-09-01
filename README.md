@@ -14,7 +14,6 @@
 ### 👀 Interests  
 - Artificial Intelligence & Machine Learning  
 - Web Development  
-- Cybersecurity & Privacy-Preserving AI  
 - Digital Marketing & Data-Driven Strategies  
 - Open Source Contributions  
 
@@ -76,7 +75,7 @@ I’m looking to collaborate on:
 | [**PhishGuard**](https://github.com/HarithaNetha8/PhishGuard) | Real-time AI-powered phishing detection system with URL and screenshot analysis | Python, Flask, React, ML, CNN, BERT |
 | [**Rent a Ride**](https://github.com/HarithaNetha8/Rent-a-Ride) | Vehicle rental platform with booking, payments, and user management | PHP, MySQL, HTML, CSS, JS |
 | [**Orphanage Management System**](https://github.com/HarithaNetha8/Orphanage-Management) | Manage orphanage operations like donations, records, and events | PHP, MySQL |
-| [**Festival Memory Wall**](https://github.com/HarithaNetha8/Festival-Memory-Wall) | Preserve cultural traditions by sharing festival images and stories | HTML, CSS, JS, PHP |
+| [**Festival Memory Wall**](https://github.com/HarithaNetha8/festive-memory-wall) | Preserve cultural traditions by sharing festival images and stories | HTML, CSS, JS, PHP |
 
 ---
 
